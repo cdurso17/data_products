@@ -1,0 +1,17 @@
+base
+knitr
+lattice
+ggplot2
+caret
+randomForest
+shiny
+MASS
+HistData
+survival
+Formula
+Hmisc
+UsingR
+rsconnect
+shinyapps
+devtools
+slidify
